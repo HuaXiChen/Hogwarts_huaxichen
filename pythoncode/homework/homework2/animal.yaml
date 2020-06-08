@@ -1,0 +1,13 @@
+Cat:
+  name: tuantuan
+  color: white
+  age: 1
+  gender: female
+  hair: "short hair"
+
+Dog:
+  name: xuehua
+  color: snow-white
+  age: 2
+  gender: male
+  hair: "long hair"
